@@ -1,0 +1,117 @@
+
+.progressbarwarp
+{
+
+   
+    background-color: rgb(232, 232, 232);
+    border-radius: 60px;
+    height: 0.4rem;
+    width: 20%;
+    
+    color: #f00;
+    display: flex;
+    position: relative;
+}
+
+.progressbar
+{
+
+    
+    height: 0.4rem;
+     border-radius: 60px;
+    color: rgb(21, 18, 18);
+    background-color: #f00;
+    width: 70%;
+    border-radius: 60px;
+   
+    
+}
+.progressbar_blk
+
+{
+display: flex;
+position: absolute;
+gap: 10rem;
+padding-left: 30%;
+
+
+
+}
+
+.blk1
+
+{
+    border: 0px solid #f2e7e7;
+    height: 0.4rem;
+   
+    color: rgb(95, 88, 88);
+    background-color: rgb(255, 255, 255);
+    width: 10px;
+    position: relative;
+    
+
+    
+   
+}
+
+.blk2
+
+{
+    border: 0px solid #f2e7e7;
+    height: 0.4rem;
+  
+    color: #f00;
+    background-color: rgb(255, 255, 255);
+   
+    width: 10px;
+    position: relative;
+    
+   
+}
+
+.cardpro
+{
+    
+    background-color: #ffffff;
+    height: 2rem;
+    width: 10rem;
+    border-radius: 6px;
+    margin: 4px;
+   padding: 1rem;
+   display: flex;
+   gap: 1rem;
+}
+
+
+
+.User1-imagepro
+
+{
+   
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+   
+
+    border: 1px solid #005BFF;
+    
+
+}
+.user1pro
+{
+    
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+.User1-namepro
+
+{ 
+    display: flex;
+    justify-content: center;
+    padding-top: 0.5rem;
+    font-weight: bolder;
+}
